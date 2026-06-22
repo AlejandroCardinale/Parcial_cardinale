@@ -99,10 +99,7 @@ GameHub/
 
 ## 👨‍💻 Autor
 
-Desarrollado como proyecto académico para la materia de Desarrollo Web con Angular.
+Desarrollado como proyecto académico.
 
 ---
 
-## 📄 Licencia
-
-Este proyecto es de uso académico.
